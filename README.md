@@ -3,6 +3,7 @@ A bookstore system demo with RedBlue (in the following paper), for the course Ad
 
 ### Team member
 [Andy Chen](https://github.com/kaichiasjtu)
+
 [WhoisZihan](https://github.com/WhoisZihan)
 
 ### Reference
