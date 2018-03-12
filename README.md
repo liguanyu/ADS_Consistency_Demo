@@ -1,7 +1,7 @@
 # ADS Consistency Demo
 A bookstore system demo with RedBlue (in the following paper), for the course Advanced Distribute System (ADS), SJTU
 
-### Team member
+### Other Team Members
 [Andy Chen](https://github.com/kaichiasjtu)
 
 [WhoisZihan](https://github.com/WhoisZihan)
